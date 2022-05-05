@@ -1,0 +1,3 @@
+D:/Clion/projects/CPP06/ex00/cmake-build-debug/CMakeFiles/ex00.dir
+D:/Clion/projects/CPP06/ex00/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion/projects/CPP06/ex00/cmake-build-debug/CMakeFiles/rebuild_cache.dir
